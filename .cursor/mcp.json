@@ -3,7 +3,11 @@
     "browsermcp": {
       "command": "pnpx",
       "args": [
+<<<<<<< HEAD
         "@browsermcp/mcp@latest"
+=======
+        "@browsermcp/mcp"
+>>>>>>> 27b2eaee3b9857bcc4a35ffa5b97d9be0fde6e0c
       ]
     }
   }
